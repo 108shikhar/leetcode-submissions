@@ -1,6 +1,6 @@
 # leetcode-submissions —  @shikhar_BHU108
 
-> SQL problem-solving practice from [LeetCode](https://leetcode.com/) · Repository: `leetcode-submissions`
+> SQL and DSA problem-solving practice from [LeetCode](https://leetcode.com/) · Repository: `leetcode-submissions`
 
 ---
 
@@ -8,7 +8,7 @@
 
 [LeetCode](https://leetcode.com/) is a coding interview preparation platform featuring programming problems, database problems, contests and structured study plans.
 
-This repository contains SQL solutions to LeetCode problems, primarily following the **SQL 50 Study Plan**.
+This repository contains solutions to LeetCode problems across **SQL 50 Study Plan** and **Data Structures & Algorithms (DSA)** using **Python**.
 
 ---
 
@@ -35,6 +35,25 @@ The study plan covers core SQL concepts including:
 
 ---
 
+## DSA
+
+The DSA practice in this repository focuses on core **Data Structures & Algorithms** topics commonly used in coding interviews and problem-solving.
+
+The topics covered include:
+
+- Arrays
+- Strings
+- Hashing
+- Sorting
+- Recursion
+- Sliding Window
+- 1-D & 2-D DP
+- Stacks
+- Queues
+- Graphs
+
+---
+
 ## Repository structure
 
 Solutions are organized by LeetCode problem ID and problem slug. Each problem is stored in its own folder:
@@ -42,21 +61,22 @@ Solutions are organized by LeetCode problem ID and problem slug. Each problem is
 ```text
 <problem-id>-<problem-slug>/
   <problem-slug>.sql
+  <problem-slug>.py
   README.md
   Notes.md   ← when applicable
 ```
 
 **Example:**
 ```
-1153-product-sales-analysis-i/
-  product-sales-analysis-i.sql
-  README.md
-  Notes.md
-
 1258-article-views-i/
   article-views-i.sql
   README.md
   Notes.md
+
+<dsa-problem>/
+  <dsa-problem>.py
+  README.md
+  Notes.md   ← when applicable
 ```
 
 ---
@@ -65,15 +85,23 @@ Solutions are organized by LeetCode problem ID and problem slug. Each problem is
 
 | Language | Extension |
 |---|---|
+| Python | `.py` |
+| JavaScript | `.js` |
+| TypeScript | `.ts` |
+| Java | `.java` |
+| C++ | `.cpp` |
+| C# | `.cs` |
+| Go | `.go` |
+| Rust | `.rs` |
+| Kotlin | `.kt` |
+| Swift | `.swift` |
 | SQL | `.sql` |
 
 ---
 
 ## Conclusion
 
-This repository is dedicated to SQL problem-solving on LeetCode, with the **SQL 50 Study Plan** serving as the primary practice track.
-
-The repository focuses exclusively on SQL solutions and related problem notes, providing a structured record of SQL practice and interview preparation.
+This repository is dedicated to **LeetCode problem-solving across SQL and DSA**, providing a structured record of coding practice and interview preparation.
 
 ---
 
