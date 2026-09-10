@@ -61,6 +61,7 @@ Solutions are organized by LeetCode problem ID and problem slug. Each problem is
 ```text
 <problem-id>-<problem-slug>/
   <problem-slug>.sql
+  OR
   <problem-slug>.py
   README.md
   Notes.md   ← when applicable
@@ -71,7 +72,7 @@ Solutions are organized by LeetCode problem ID and problem slug. Each problem is
 1258-article-views-i/
   article-views-i.sql
   README.md
-  Notes.md
+  Notes.md   ← when applicable
 
 <dsa-problem>/
   <dsa-problem>.py
