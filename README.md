@@ -102,7 +102,7 @@ Solutions are organized by LeetCode problem ID and problem slug. Each problem is
 
 ## Conclusion
 
-This repository is dedicated to **LeetCode problem-solving across SQL and DSA**, providing a structured record of coding practice and interview preparation.
+This repository is dedicated to **LeetCode problem-solving across SQL and DSA**, providing a structured record of coding practice.
 
 ---
 
