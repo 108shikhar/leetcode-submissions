@@ -8,7 +8,7 @@ class Solution:
             x=nums[i]
             big=max(x,x*maximum,x*minimum)
             small=min(x,x*maximum,x*minimum)
-            ans=max(big,small,ans)
+            ans=max(big,maximum,ans)
             maximum=big
             minimum=small
         return ans
